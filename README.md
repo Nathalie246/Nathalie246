@@ -11,11 +11,14 @@ My journey in computer science has led me to develop a passion for data analysis
 
 🛠️ Skills
 Programmes & Tools
+
 Programmes: Excel, Power BI, SQL, Tableau Public, Python
+
 Libraries/Frameworks: Pandas, NumPy, Matplotlib, Seaborn
 
 📂 Projects
 [Project Title 1]
+
 Description: A brief overview of what this project does and its impact.
 Technologies: Power BI
 Key Features:

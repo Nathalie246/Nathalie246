@@ -6,7 +6,6 @@ I'm a recent graduate with Bachelor's degree in a technical field. I have a stro
 
 
 ## Objective
-[ Provide Objective]
 My journey in computer science has led me to develop a passion for data analysis. I aim to apply and further develop my skills in data interpretation, statistical analysis and visualisation, contributing to data-driven decision making within an innovative and growth-oriented organisation.
 
 🛠️ Skills
@@ -17,11 +16,13 @@ Programmes: Excel, Power BI, SQL, Tableau Public, Python
 Libraries/Frameworks: Pandas, NumPy, Matplotlib, Seaborn
 
 📂 Projects
-[Project Title 1]
+[Sales Data Analysis]
 
-Description: A brief overview of what this project does and its impact.
+Description: In the Sales Data Analysis project, my task was to create an interactive report for analyzing sales performance, customer behaviors, product-specific sales successes, and returns over time. In this project, I used visualizations such as line and bar charts, scatter plots, and maps to track key indicators such as sales trends, top customers, and returns by product category and region. The report includes interactive filters and KPI indicators, which help monitor business performance more effectively.
+
 Technologies: Power BI
-Key Features:
+
+Key Features: Sales Analysis, Data visualisation, Sales performance, KPI indicators
 
 Feature 1
 Feature 2

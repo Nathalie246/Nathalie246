@@ -24,8 +24,8 @@ Technologies: Power BI
 
 Key Features: Sales Analysis, Data visualisation, Sales performance, KPI indicators
 
-Feature 1
-Feature 2
-Link to the project repository
+
+Link to the project repository: [Sales Data Analysis Natalia Markiewicz](https://github.com/Nathalie246/Nathalie246/blob/main/Sales%20Data%20Analysis%20Natalia%20Markiewicz.pdf)
+
 
 

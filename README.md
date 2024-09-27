@@ -37,7 +37,7 @@ Libraries/Frameworks: Pandas, NumPy, Matplotlib, Seaborn
 
 # 📂 **Projects**
 
-# 1.[Sales Data Analysis]
+# 1.[Sales Data Analysis] 🛒💲
 
 Description: 
 
@@ -55,7 +55,7 @@ Link to my project repository: [Sales Data Analysis Natalia Markiewicz](https://
 
 
 
-# 2.[Customer Churn Analysis]
+# 2.[Customer Churn Analysis] 👩🏻‍💻〽️
 
 In this project, I focused on analyzing customer churn based on data such as customer ID, gender, payment method, monthly fees, total charges, cancellations, and customer tenure. I used visualizations to present key metrics such as the number of customers, churn rate, and subscribed services. I calculated the risk of customer attrition based on factors like monthly fees, number of complaints, and customer tenure. On the dashboard, I created visualizations showing the distribution of churn by service, payment method, and contract type, as well as revenue analysis. In this project, I utilized my skills in writing DAX formulas and visualizations, enabling the company to understand which customers are most at risk of leaving.
 
@@ -66,7 +66,7 @@ Link to my project repository: [Customer Churn Analysis - Natalia Markiewicz](ht
 
 
 
-# 3. [ Titanic Project ]
+# 3. [ Titanic Project ] 🚢🎫 
 
 
 In my Titanic project, my task was to conduct an analysis to understand the factors that influenced the survival of passengers during the ship's disaster. I analyzed variables such as gender, passenger class, ticket fare, and family size. I cleaned the data and created a predictive model that accurately forecasts outcomes based on historical data. I also created visualizations such as dashboards with key survival metrics. My analysis includes key insights and trends regarding the survivors of the Titanic.

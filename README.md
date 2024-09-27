@@ -1,5 +1,6 @@
 # Hello! I'm Nathalie
-<img align="right" alt"coding" width="400" src="https://github.com/Nathalie246/Nathalie246/blob/main/mygif.gif
+<img align="right" alt="coding" width="400" src=![image](https://github.com/user-attachments/assets/8fd107a8-f59c-4105-a3a7-93cc17161186)"
+
 
 
 

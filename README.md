@@ -1,6 +1,5 @@
 # Hello! I'm Nathalie
-<img align="right" alt"coding" width="400" src="https://www.google.pl/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fnohannah&psig=AOvVaw0sWDg7PLAYtTGfcXmj0SAr&ust=1727519943510000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOjfpLr34ogDFQAAAAAdAAAAABBA
-">
+<img align="right" alt"coding" width="400" src="https://github.com/Nathalie246/Nathalie246/blob/main/mygif.gif
 
 
 

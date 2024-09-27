@@ -1,5 +1,8 @@
 # Hello! I'm Nathalie
 
+(https://github.com/Nathalie246/Nathalie246/blob/main/mygif.gif)
+
+
 
 🧑‍💻[ About me ]
 I'm a recent graduate with Bachelor's degree in a technical field. I have a strong interest in technology and I am eager to expand my knowledge and skills in IT solutions, particularly in areas like software development, cybersecurity, and data analysis.

@@ -1,5 +1,7 @@
 # Hello! I'm Nathalie
-![image](https://github.com/Nathalie246/Nathalie246/blob/main/mygif.gif)
+<img src="https://github.com/Nathalie246/Nathalie246/blob/main/mygif.gif" width="400" height="300" alt="Opis gifu">
+
+
 
 
 

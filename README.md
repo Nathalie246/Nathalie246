@@ -1,7 +1,6 @@
 <div style="background-image: url('https://github.com/Nathalie246/Nathalie246/blob/main/blackdesert.jpg'); background-size: cover; padding: 50px; color: white; text-align: center;">
     <h1>Witaj na moim profilu!</h1>
-    <p>To jest mój GitHub, na którym znajdziesz moje projekty i prace.</p>
-</div>
+    <p>To jest mój GitHub, na którym znajdziesz moje projekty i prace.</p></div>
 
 
 

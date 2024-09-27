@@ -1,18 +1,3 @@
-https://github.com/Nathalie246/Nathalie246/raw/main/blackdesert.jpg
-<div style="position: relative; text-align: center;">
-    <img src="https://github.com/Nathalie246/Nathalie246/raw/main/blackdesert.jpg" alt="Czarna pustynia" style="width: 100%; height: auto;">
-    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);">
-        <h1 style="margin: 0; font-size: 3em;">Witaj na moim profilu!</h1>
-        <p style="margin: 0; font-size: 1.5em;">To jest mój GitHub, na którym znajdziesz moje projekty i prace.</p>
-    </div>
-</div>
-
-
-
-
-
-
-
 
 # Hello! I'm Nathalie
 <img src="https://github.com/Nathalie246/Nathalie246/blob/main/mygif.gif" width="400" height="300" alt="Opis gifu">

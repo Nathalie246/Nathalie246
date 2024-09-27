@@ -1,10 +1,11 @@
 <div style="position: relative; text-align: center; color: white;">
     <img src="https://github.com/Nathalie246/Nathalie246/blob/main/blackdesert.jpg?raw=true" alt="Czarna pustynia" style="width: 100%; height: auto;">
     <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
-        <h1>Witaj na moim profilu!</h1>
-        <p>To jest mój GitHub, na którym znajdziesz moje projekty i prace.</p>
+        <h1 style="margin: 0; font-size: 3em;">Witaj na moim profilu!</h1>
+        <p style="margin: 0; font-size: 1.5em;">To jest mój GitHub, na którym znajdziesz moje projekty i prace.</p>
     </div>
 </div>
+
 
 
 

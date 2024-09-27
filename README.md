@@ -1,6 +1,5 @@
 # Hello! I'm Nathalie
-<img align="right" alt"coding" width="200" src="![image](https://github.com/user-attachments/assets/a79a8946-e430-452c-b884-da2f09f74e88)">
-[Profil LinkedIn Natalia Markiewicz](https://www.linkedin.com/in/natalia-markiewicz-b051a6248/)
+
 
 🧑‍💻[ About me ]
 I'm a recent graduate with Bachelor's degree in a technical field. I have a strong interest in technology and I am eager to expand my knowledge and skills in IT solutions, particularly in areas like software development, cybersecurity, and data analysis.

@@ -1,7 +1,5 @@
 # Hello! I'm Nathalie
 
-(https://github.com/Nathalie246/Nathalie246/blob/main/mygif.gif)
-
 
 
 🧑‍💻[ About me ]

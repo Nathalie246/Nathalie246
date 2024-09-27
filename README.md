@@ -1,5 +1,6 @@
 # Hello! I'm Nathalie
-
+<img align="right" alt"coding" width="400" src="![image](https://github.com/user-attachments/assets/f7e409d7-7c84-4d8e-b748-3ed7a4420951)
+">
 [Profil LinkedIn Natalia Markiewicz](https://www.linkedin.com/in/natalia-markiewicz-b051a6248/)
 
 🧑‍💻[ About me ]

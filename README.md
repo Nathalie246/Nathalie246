@@ -1,5 +1,6 @@
 # Hello! I'm Nathalie
-![image]"https://github.com/Nathalie246/Nathalie246/blob/main/mygif.gif"
+![image](https://github.com/Nathalie246/Nathalie246/blob/main/mygif.gif)
+
 
 
 

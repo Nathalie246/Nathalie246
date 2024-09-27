@@ -1,6 +1,3 @@
-# Hello! I'm Nathalie
-<img src="https://github.com/Nathalie246/Nathalie246/blob/main/mygif.gif" width="400" height="300" alt="Opis gifu">
-
 <svg width="100%" height="200">
   <defs>
     <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
@@ -10,6 +7,11 @@
   </defs>
   <rect width="100%" height="200" fill="url(#grad1)" />
 </svg>
+
+# Hello! I'm Nathalie
+<img src="https://github.com/Nathalie246/Nathalie246/blob/main/mygif.gif" width="400" height="300" alt="Opis gifu">
+
+
 
 
 

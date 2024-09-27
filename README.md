@@ -21,7 +21,9 @@ My journey in computer science has led me to develop a passion for data analysis
 # 🛠️ **Skills**
 
 
-Programmes: <img src="https://github.com/user-attachments/assets/44a0173f-8490-412c-a71b-276f18953d51" width="150" alt="Logo">, <img src="https://github.com/user-attachments/assets/ffdce1fe-19c7-46b2-ac52-31773cb889d2" width="200" height="100" alt="Logo">, SQL, Tableau Public, Python
+Programmes: <img src="https://github.com/user-attachments/assets/44a0173f-8490-412c-a71b-276f18953d51" width="150" alt="Logo">, <img src="https://github.com/user-attachments/assets/ffdce1fe-19c7-46b2-ac52-31773cb889d2" width="200" height="100" alt="Logo">, <img src="https://github.com/user-attachments/assets/91dc77fc-2d5e-4b52-bc17-264d3004bf1b" width="150" alt="Logo">
+
+, Tableau Public, Python
 
 Libraries/Frameworks: Pandas, NumPy, Matplotlib, Seaborn
 

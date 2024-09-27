@@ -21,11 +21,14 @@ My journey in computer science has led me to develop a passion for data analysis
 # 🛠️ **Skills**
 
 
-Programmes: <img src="https://github.com/user-attachments/assets/44a0173f-8490-412c-a71b-276f18953d51" width="150" alt="Logo">, <img src="https://github.com/user-attachments/assets/ffdce1fe-19c7-46b2-ac52-31773cb889d2" width="200" height="100" alt="Logo">, <img src="https://github.com/user-attachments/assets/91dc77fc-2d5e-4b52-bc17-264d3004bf1b" width="150" alt="Logo">
+Programmes:
 
-,<img src="https://github.com/user-attachments/assets/9ba2e57b-bc29-4591-ae65-a3db602094bd" width="150" alt="Logo">
+<img src="https://github.com/user-attachments/assets/44a0173f-8490-412c-a71b-276f18953d51" width="150" alt="Logo">, <img src="https://github.com/user-attachments/assets/ffdce1fe-19c7-46b2-ac52-31773cb889d2" width="200" height="100" alt="Logo"> <img src="https://github.com/user-attachments/assets/91dc77fc-2d5e-4b52-bc17-264d3004bf1b" width="150" alt="Logo">
 
-, Python
+<img src="https://github.com/user-attachments/assets/9ba2e57b-bc29-4591-ae65-a3db602094bd" width="150" alt="Logo">  ![image](https://github.com/user-attachments/assets/b9d6d767-3b62-4c8d-a37c-0008f3ad5af6)
+
+
+
 
 Libraries/Frameworks: Pandas, NumPy, Matplotlib, Seaborn
 

@@ -1,4 +1,5 @@
-<img src="https://github.com/Nathalie246/Nathalie246/blob/main/blackdesert.jpg" width="100%" alt="Czarna pustynia">
+<img src="https://github.com/Nathalie/Nathalie246/blob/main/blackdesert.jpg" width="100%" alt="Czarna pustynia">
+
 
 
 # Hello! I'm Nathalie

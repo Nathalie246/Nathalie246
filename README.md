@@ -1,8 +1,7 @@
 ![Czarna pustynia](https://github.com/Nathalie246/Nathalie246/blob/main/blackdesert.jpg?raw=true)
-![Czarna pustynia](https://github.com/Nathalie246/Nathalie246/blob/main/blackdesert.jpg?raw=true)
 
 # Witaj na moim profilu!
-To jest mój GitHub, na którym znajdziesz moje projekty i prace.
+**To jest mój GitHub, na którym znajdziesz moje projekty i prace.**
 
 
 

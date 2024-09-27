@@ -1,5 +1,6 @@
 # Hello! I'm Nathalie
-[image](https://github.com/user-attachments/assets/8fd107a8-f59c-4105-a3a7-93cc17161186)"
+src="![image](https://github.com/user-attachments/assets/b5975cb8-1d5f-4abd-8ddf-c2660da9dd5f)"
+
 
 
 

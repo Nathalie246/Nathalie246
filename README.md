@@ -21,7 +21,7 @@ My journey in computer science has led me to develop a passion for data analysis
 # 🛠️ **Skills**
 
 
-Programmes: Excel, <img src="https://github.com/user-attachments/assets/ffdce1fe-19c7-46b2-ac52-31773cb889d2" width="200" height="100" alt="Logo">, SQL, Tableau Public, Python
+Programmes:<img src="https://www.corpoconnect.nl/aan-de-slag/Training-Excel-basis/" width="100" alt="Logo">, <img src="https://github.com/user-attachments/assets/ffdce1fe-19c7-46b2-ac52-31773cb889d2" width="200" height="100" alt="Logo">, SQL, Tableau Public, Python
 
 Libraries/Frameworks: Pandas, NumPy, Matplotlib, Seaborn
 

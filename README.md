@@ -1,5 +1,5 @@
 # Hello! I'm Nathalie
-src=![image](https://github.com/user-attachments/assets/8fd107a8-f59c-4105-a3a7-93cc17161186)"
+[image](https://github.com/user-attachments/assets/8fd107a8-f59c-4105-a3a7-93cc17161186)"
 
 
 

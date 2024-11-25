@@ -58,15 +58,6 @@ Link to my project repository➡️  [Titanic Project - Natalia Markiewicz (PDF)
 
 
 # 4. [9000+_Movies_Dataset🍿🎥]
-In this notebook, we will explore a Movies dataset and answer some key questions by utilizing various data analysis techniques, including Matplotlib visualizations and Pandas operations. The goal is to uncover insights into the movies dataset, which includes various attributes such as popularity, genre, release year, and ratings.
-we will also perform the following mathematical operations to help us better understand the dataset:
-
-Arithmetic Mean/
-Median/
-Weighted Mean/
-Mode/
-Variance/
-Standard Deviation/
 
 Link to my project repository➡️ [[9000+_Movies_Dataset🍿🎥]](https://github.com/Nathalie246/Nathalie246/blob/main/9000%2B_Movies_Dataset%F0%9F%8D%BF%F0%9F%8E%A5ipynb.ipynb)
 

@@ -54,6 +54,8 @@ Link to my project repository➡️ [Sales Data Analysis Natalia Markiewicz](htt
 
 # 2.[Customer Churn Analysis] 👩🏻‍💻〽️
 
+Technologies: <img src="https://github.com/user-attachments/assets/ffdce1fe-19c7-46b2-ac52-31773cb889d2" width="200" height="100" alt="Logo">
+
 Link to my project repository➡️ [Customer Churn Analysis - Natalia Markiewicz](https://github.com/Nathalie246/Nathalie246/blob/main/Customer%20Churn%20Analysis%20Natalia%20Markiewicz.pdf)
 
 
@@ -62,6 +64,8 @@ Link to my project repository➡️ [Customer Churn Analysis - Natalia Markiewic
 
 
 # 3. [ Titanic Project ] 🚢🎫 
+
+Technologies: <img src="https://github.com/user-attachments/assets/ffdce1fe-19c7-46b2-ac52-31773cb889d2" width="200" height="100" alt="Logo">
 
 
 Link to my project repository➡️  [Titanic Project - Natalia Markiewicz (PDF)](https://github.com/Nathalie246/Nathalie246/blob/main/Titanic%20Project%20Natalia%20Markiewicz%20pdf.pdf)

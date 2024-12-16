@@ -11,7 +11,7 @@
 
 
 # 🧑‍💻[ **About me** ]
-I'm a recent graduate with Bachelor's degree in a technical field. I have a strong interest in technology and I am eager to expand my knowledge and skills in IT solutions, particularly in areas like software development, cybersecurity, and data analysis.
+I'm a recent graduate with Bachelor's degree in a technical field. I have a strong interest in technology and I am eager to expand my knowledge and skills in IT solutions, particularly in areas like  data analysis and customer service.
 
 
 ## **Objective**🚀
